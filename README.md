@@ -10,7 +10,7 @@ __Team Members:__
 
 # Strategy
 
-Branch strategy: 'GitFlow' (shown in lecture 01)
+Branch strategy: 'GitFlow'
 - Main branch for submissions
 - Develop branch for development (shocking)
 - For each issue create new branch
