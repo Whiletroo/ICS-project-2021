@@ -8,13 +8,7 @@ __Team Members:__
 - Dalibor Beneš (xbenes56)
 - Marek Kafoněk (xkafon01)
 
-__Deadlines:__
-1. __14.03.__ – Object design (20b)
-2. __11.04.__ – Entity Framework, Repository, Tests (30b)
-3. __04.05__ – Finalization and defense (50b)
-
 # Strategy
-__Meetings:__ Friday 13.00
 
 Branch strategy: 'GitFlow' (shown in lecture 01)
 - Main branch for submissions
